@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AC39kPylrpxLUDGPk2dl8PUAByekRKCrSxodJga72dQpXSXNYjLb+OdWv+226/UmuZlMJlLe578qhvlbpq0pKg==",
+  "dgSpecHash": "cw3zgqwKIBcFcG1NtSH55kYW+VeMvA5t/mfyZKMKnftMjm2Mc6e9HBabAcQH3dbxVZSjb90U5Y5PRjlbhMYUqA==",
   "success": true,
   "projectFilePath": "/Users/zhangying-macbookpro/Projects/Jianjun-Furniture-Store/BlazorFurnitureStore/BlazorFurnitureStore.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/zhangying-macbookpro/.nuget/packages/microsoft.entityframeworkcore.tools/9.0.0/microsoft.entityframeworkcore.tools.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
